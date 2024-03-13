@@ -116,10 +116,10 @@ sbastida04@gmail.com
 ## Documentation
 
 * [Python Documentation](https://docs.python.org/3/)
-* [Flask Documentation]([https://www.webpagefx.com/tools/emoji-cheat-sheet](https://flask.palletsprojects.com/en/3.0.x/))
-* [SQL Lite Documentation]([https://flexbox.malven.co/](https://www.sqlite.org/docs.html))
-* [HTML Documentation]([https://grid.malven.co/](https://developer.mozilla.org/en-US/docs/Web/HTML))
-* [CSS Documentation]([https://shields.io](https://developer.mozilla.org/en-US/docs/Web/CSS))
+* [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
+* [SQL Lite Documentation](https://www.sqlite.org/docs.html)
+* [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS Documentation](https://shields.io](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
