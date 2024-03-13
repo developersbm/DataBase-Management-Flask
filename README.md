@@ -98,8 +98,6 @@ You can view your tasks in a sorted list, making it easy to prioritize and manag
 - View tasks: Filter tasks by priority or category.
 - View tasks: Search for specific tasks using keywords.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
