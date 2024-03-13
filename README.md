@@ -2,9 +2,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <p align="center">
   Day-Manager project leveraging the Python Flask library for database management    <br />
