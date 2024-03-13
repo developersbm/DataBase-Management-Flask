@@ -113,18 +113,13 @@ sbastida04@gmail.com
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Documentation
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Python Documentation]([https://choosealicense.com](https://docs.python.org/3/))
+* [Flask Documentation]([https://www.webpagefx.com/tools/emoji-cheat-sheet](https://flask.palletsprojects.com/en/3.0.x/))
+* [SQL Lite Documentation]([https://flexbox.malven.co/](https://www.sqlite.org/docs.html))
+* [HTML Documentation]([https://grid.malven.co/](https://developer.mozilla.org/en-US/docs/Web/HTML))
+* [CSS Documentation]([https://shields.io](https://developer.mozilla.org/en-US/docs/Web/CSS))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
