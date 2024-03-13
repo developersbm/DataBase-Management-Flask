@@ -76,13 +76,31 @@ Install dependencies:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+## Adding Tasks 
+- Task: "Prepare presentation for Monday meeting"
+- Task: "Reply to emails from clients"
+- Task: "Schedule follow-up call with potential customer"
+- Updating Tasks: If there are changes or updates to your tasks, you can easily modify     them. For instance:
+## Update Tasks
+- Update task: Change the deadline for the presentation to Friday.
+- Update task: Add additional details to the email replies.
+- Update task: Reschedule the follow-up call to a different time.
+# Deleting Tasks: 
+Once a task is completed or no longer relevant, you can remove it from your list:
+- Delete task: Presentation for Monday meeting is completed.
+- Delete task: All client emails have been replied to.
+- Delete task: Follow-up call with potential customer is no longer needed.
+
+# Viewing Tasks
+You can view your tasks in a sorted list, making it easy to prioritize and manage them:
+
+- View tasks: See all tasks sorted by creation date.
+- View tasks: Filter tasks by priority or category.
+- View tasks: Search for specific tasks using keywords.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
