@@ -26,7 +26,10 @@
 ### Built With
 
 * [![Python][Python.com]][Python-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Flask][Flask.com]][Flask-url]
+* [![SQLLite][SQLLite.com]][SQLLite-url]
+* [![HTML][HTML.com]][HTML-url]
+* [![CSS][CSS.com]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,5 +110,12 @@ sbastida04@gmail.com
 <!-- MARKDOWN LINKS & IMAGES -->
 [Python.com]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[Flask.com]: https://img.shields.io/badge/FLASK-green?logo=flask&style=flat-square
+[Flask-url]: https://flask.palletsprojects.com/en/3.0.x/
+[SQLLite.com]: https://img.shields.io/badge/SQLite-blue?logo=sqlite&style=flat-square
+[SQLLite-url]: https://www.sqlite.org/
+[HTML.com]: https://img.shields.io/badge/HTML-orange?logo=html5&style=flat-square
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS.com]: https://img.shields.io/badge/CSS-blue?logo=css3&style=flat-square
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
