@@ -64,9 +64,13 @@ Install dependencies:
   ```sh
   pip install Flask SQLAlchemy
   ```
-* 
+* npm
   ```sh
   npm install npm@latest -g
+  ```
+* Execute the following command to run the Flask application:
+  ```sh
+  python app.py
   ```
 
 <!-- USAGE EXAMPLES -->
