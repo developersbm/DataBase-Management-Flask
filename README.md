@@ -1,13 +1,7 @@
 # DataBase-Management-Flask
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-
-  <p align="center">
-  Day-Manager project leveraging the Python Flask library for database management    <br />
-    <br />
-  </p>
-</div>
+Day-Manager project leveraging the Python Flask library for database management    <br />
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
