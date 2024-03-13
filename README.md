@@ -108,7 +108,7 @@ sbastida04@gmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Python.com]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python.com]:https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square
 [Python-url]: https://www.python.org/
 [Flask.com]: https://img.shields.io/badge/FLASK-green?logo=flask&style=flat-square
 [Flask-url]: https://flask.palletsprojects.com/en/3.0.x/
