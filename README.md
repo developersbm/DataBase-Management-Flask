@@ -22,8 +22,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -33,7 +31,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+- Database management app for daily activities.
+- Allows users to add, update, and delete tasks.
+- Users can view their tasks in a list sorted by creation date.
+- Provides a simple web interface for managing tasks.
+- Utilizes Flask framework for web development.
+- Uses SQLite database for storing task information.
+- Offers a straightforward user experience for organizing daily activities.
 
 
 
