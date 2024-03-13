@@ -115,7 +115,7 @@ sbastida04@gmail.com
 <!-- ACKNOWLEDGMENTS -->
 ## Documentation
 
-* [Python Documentation]:[https://choosealicense.com](https://docs.python.org/3/]
+* [Python Documentation](https://docs.python.org/3/)
 * [Flask Documentation]([https://www.webpagefx.com/tools/emoji-cheat-sheet](https://flask.palletsprojects.com/en/3.0.x/))
 * [SQL Lite Documentation]([https://flexbox.malven.co/](https://www.sqlite.org/docs.html))
 * [HTML Documentation]([https://grid.malven.co/](https://developer.mozilla.org/en-US/docs/Web/HTML))
