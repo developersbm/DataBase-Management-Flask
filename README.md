@@ -119,7 +119,7 @@ sbastida04@gmail.com
 * [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 * [SQL Lite Documentation](https://www.sqlite.org/docs.html)
 * [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS Documentation](https://shields.io](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [CSS Documentation](https://developer.mozilla.org/enUS/docs/Web/CSS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
