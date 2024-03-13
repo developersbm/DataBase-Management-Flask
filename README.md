@@ -25,6 +25,7 @@
 
 ### Built With
 
+* [![Python][Python.com]][Python-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -104,5 +105,7 @@ sbastida04@gmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[Python.com]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
