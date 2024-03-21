@@ -15,7 +15,9 @@ Day-Manager project leveraging the Python Flask library for database management 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Showcase
 
+https://github.com/developersbm/DataBase-Management-Flask/assets/122469079/b903ae93-b156-4b8b-a4d9-5e77111efd52
 
 ### Built With
 
